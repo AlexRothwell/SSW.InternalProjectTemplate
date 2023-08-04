@@ -3,7 +3,7 @@ name: Project onboarding
 about: Use this when joining the project
 title: "[Onboarding] <YOUR NAME>"
 labels: ''
-assignees: AlexRothwell
+assignees: ''
 
 ---
 
