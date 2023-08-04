@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Cc: {{ PRODUCT CHAMPION }}
+Cc: {{ PRODUCT OWNER }}, {{ BENCH MASTER }}
   
 To myself,
   
